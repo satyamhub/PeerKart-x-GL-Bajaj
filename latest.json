@@ -1,0 +1,7 @@
+{
+    "versionCode":  25,
+    "versionName":  "1.15",
+    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.15/peerkart-1.15-25.apk",
+    "sha256":  "5939b3e9f06d07b05bc3d80f2fc0ae20b63ed1c51aa4fcc9c02d5ddcfe460021",
+    "releaseNotes":  "PeerKart 1.15: automatic updates from GitHub Releases; student lookups use saved profile details first."
+}
