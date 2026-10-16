@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.16",
-    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.16/peerkart-1.16-26.apk",
-    "sha256":  "663b913cad84a953230c17571e8bee6bc89d352c3f277585c516674e30d6fa09",
-    "releaseNotes":  "Student ID checks now use a saved database profile first; the scan button says Checkingâ€¦."
+    "versionCode":  27,
+    "versionName":  "1.17",
+    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.17/peerkart-1.17-27.apk",
+    "sha256":  "150edbdaf41256b48c3235201a5bb44b9af7d2564cde0acdc29fa453aa5ce3c6",
+    "releaseNotes":  "Showcase homepage and Android marketplace routing."
 }
