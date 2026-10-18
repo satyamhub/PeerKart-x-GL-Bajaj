@@ -1,7 +1,7 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.17",
-    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.17/peerkart-1.17-27.apk",
-    "sha256":  "150edbdaf41256b48c3235201a5bb44b9af7d2564cde0acdc29fa453aa5ce3c6",
-    "releaseNotes":  "Showcase homepage and Android marketplace routing."
+  "versionCode": 28,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.18/peerkart-1.18-28.apk",
+  "sha256": "515a92d0618a36cd67d01b52175a34c30095b9e7a010df0a53e5f602a3f5370e",
+  "releaseNotes": "Edit listings, add multiple product photos, and capture product photos in-app."
 }
