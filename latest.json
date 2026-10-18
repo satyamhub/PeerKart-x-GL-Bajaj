@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.22/peerkart-1.22-32.apk",
-  "sha256": "80326daa91c29e6ceb83fb1708f3e22061b3bfb1228c0a9c1ca528bd5fb6e530",
-  "releaseNotes": "Adds a Profile action to check for app updates. Fixes a crash when removing a selected listing photo."
+  "versionCode": 33,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.23/peerkart-1.23-33.apk",
+  "sha256": "1739d25aa7069bc73395b28a5e4e7a80ae593dd4092011535e0e9137e8193555",
+  "releaseNotes": "Fixes Android chat image selection and shows a thumbnail preview before sending."
 }
