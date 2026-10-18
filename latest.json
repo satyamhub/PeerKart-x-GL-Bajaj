@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.25/peerkart-1.25-35.apk",
-  "sha256": "f68c86bc13c8fd6877d3f9608ca148158d66c5b8529bbe57853bd651bd081d93",
-  "releaseNotes": "Fix chat location timeout by allowing more time for location acquisition and reusing a recent device fix."
+  "versionCode": 36,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.26/peerkart-1.26-36.apk",
+  "sha256": "078206ed0eaa05c58e3cd319bdfe78a42c7e9dfa628ceceae8cee4fc894d52d6",
+  "releaseNotes": "Prompt users to turn on Android Location when it is off, and provide direct access to device or app location settings."
 }
