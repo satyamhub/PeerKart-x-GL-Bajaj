@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.19/peerkart-1.19-29.apk",
-  "sha256": "f8d241197fe2bc149cdbe3b47637412211c5e750d90811094373c03e479b67d8",
-  "releaseNotes": "Send photos, documents, and current location in chat. Admins can review chat history attached to reports."
+  "versionCode": 30,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.20/peerkart-1.20-30.apk",
+  "sha256": "7889583c2bfc797947e0acfdb66c71793f728d170f34c58a90af42c0f4e93bf0",
+  "releaseNotes": "Fix chat photo and document selection, camera capture, and opening shared locations in map apps."
 }
