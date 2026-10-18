@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.26/peerkart-1.26-36.apk",
-  "sha256": "078206ed0eaa05c58e3cd319bdfe78a42c7e9dfa628ceceae8cee4fc894d52d6",
-  "releaseNotes": "Prompt users to turn on Android Location when it is off, and provide direct access to device or app location settings."
+    "apkUrl":  null,
+    "sha256":  "07363e8ea45792ef3d4f6ea433f8528c33a1d8189e6d0edaf081c1bdf8430ee5",
+    "versionCode":  37,
+    "versionName":  "1.27",
+    "releaseNotes":  "External link handling, admin-editable home hero, image announcements, and a polished home screen."
 }
