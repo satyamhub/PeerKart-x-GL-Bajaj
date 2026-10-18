@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.20",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.20/peerkart-1.20-30.apk",
-  "sha256": "7889583c2bfc797947e0acfdb66c71793f728d170f34c58a90af42c0f4e93bf0",
-  "releaseNotes": "Fix chat photo and document selection, camera capture, and opening shared locations in map apps."
+  "versionCode": 31,
+  "versionName": "1.21",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.21/peerkart-1.21-31.apk",
+  "sha256": "4fb95e32ad33b9dadfaa8dc5ba8a8a8cf0a69fab7ab4cfc9feec98be3ace4435",
+  "releaseNotes": "Selected chat photos and documents now appear in a send queue with remove controls and a clear Send button."
 }
