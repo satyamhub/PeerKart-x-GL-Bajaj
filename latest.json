@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.23/peerkart-1.23-33.apk",
-  "sha256": "1739d25aa7069bc73395b28a5e4e7a80ae593dd4092011535e0e9137e8193555",
-  "releaseNotes": "Fixes Android chat image selection and shows a thumbnail preview before sending."
+  "versionCode": 34,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.24/peerkart-1.24-34.apk",
+  "sha256": "67facd0a573d325ba8857eafbced84c63c181520a03f4261e96cfde21db5e0fd",
+  "releaseNotes": "Add per-user chat removal, on-demand chat image downloads with local caching, and local caching for app images."
 }
