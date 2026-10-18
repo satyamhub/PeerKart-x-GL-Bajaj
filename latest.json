@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.27/peerkart-1.27-37.apk",
-    "sha256":  "07363e8ea45792ef3d4f6ea433f8528c33a1d8189e6d0edaf081c1bdf8430ee5",
-    "versionCode":  37,
-    "versionName":  "1.27",
-    "releaseNotes":  "External link handling, admin-editable home hero, image announcements, and a polished home screen."
+    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.28/peerkart-1.28-38.apk",
+    "sha256":  "4436dbe9c2626ff99887e022ac68584672312f0a3c661302e4c299916198ba4d",
+    "versionCode":  38,
+    "versionName":  "1.28",
+    "releaseNotes":  "Camera and location permission prompts with retry and settings options."
 }
