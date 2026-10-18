@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/untagged-42a9e304f44fb369829c/peerkart-1.29-39.apk",
-    "sha256":  "a4a30a25b3ebf53186a81f1fb14631e2b244b86a7b9056910379280122ecb3f4",
-    "versionCode":  39,
-    "versionName":  "1.29",
-    "releaseNotes":  "Home hero editing and hero image uploads are now limited to the primary admin. Apply migration 20261028_primary_admin_home_hero.sql."
+  "apkUrl": "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.29/peerkart-1.29-39.apk",
+  "sha256": "a4a30a25b3ebf53186a81f1fb14631e2b244b86a7b9056910379280122ecb3f4",
+  "versionCode": 39,
+  "versionName": "1.29",
+  "releaseNotes": "Home hero editing and hero image uploads are now limited to the primary admin. Apply migration 20261028_primary_admin_home_hero.sql."
 }
