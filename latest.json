@@ -1,7 +1,7 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.30",
-    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.30/peerkart-1.30-40.apk",
-    "sha256":  "7597a4dbc20ed8343a7cafa7f40522c6cb36d4c13e8634deda0582653cfcc444",
-    "releaseNotes":  "AI-assisted listing title, description, and category suggestions."
+    "versionCode":  41,
+    "versionName":  "1.31",
+    "apkUrl":  "https://github.com/satyamhub/PeerKart-x-GL-Bajaj/releases/download/v1.31/peerkart-1.31-41.apk",
+    "sha256":  "3d7234396f6f51dc7341b8a141f589c0ca1295e473f27a5e9f092d140af9c8c6",
+    "releaseNotes":  "AI photo-to-listing drafts, natural-language search, comparable price guidance, safety hints, and listing Q\u0026A."
 }
